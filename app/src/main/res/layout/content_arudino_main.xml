@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".ArudinoMainActivity"
     tools:layout_editor_absoluteY="25dp">
-
+<!--
     <EditText
         android:id="@+id/editText1"
         android:layout_width="fill_parent"
@@ -16,7 +16,7 @@
         android:hint="Enter some text"
         android:imeOptions="actionSend"
         android:singleLine="true" />
-
+-->
     <Button
         android:id="@+id/functionOne"
         android:layout_width="132dp"
