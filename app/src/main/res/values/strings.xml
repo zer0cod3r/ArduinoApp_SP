@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My simpleBluetoothApplication</string>
+    <string name="title_activity_arudino_main">ArudinoMainActivity</string>
+</resources>
